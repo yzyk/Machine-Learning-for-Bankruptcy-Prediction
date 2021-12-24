@@ -1,3 +1,5 @@
+**This is a Full Credit Midterm Project Attempt for FRE-7773.**
+
 # Problem description
 
 You are to predict whether a company will go bankrupt in the following year, based on financial attributes of the company.
